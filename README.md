@@ -1,4 +1,4 @@
 # [Sample Repo] PR Practice
-more stuff before 
+another stuff before
 A sample repo for practicing how to create Pull Requests
-More stuff afterr
+More stuff after
